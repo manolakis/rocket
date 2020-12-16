@@ -1,5 +1,12 @@
 # @d4kmor/launch
 
+## 0.10.1
+
+### Patch Changes
+
+- bac8860: add css variables for colors
+- 5b3dfae: use ids for headers, footers
+
 ## 0.10.0
 
 ### Minor Changes

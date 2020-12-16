@@ -1,5 +1,11 @@
 # @d4kmor/cli
 
+## 0.11.1
+
+### Patch Changes
+
+- 6cf6ef2: Adds a helper for adding remark plugins
+
 ## 0.11.0
 
 ### Minor Changes
